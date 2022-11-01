@@ -27,7 +27,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
+global.sig = 'https://instagram.com/ramdani_real01'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/Danzzxcodes'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
@@ -44,7 +44,7 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/danzzcoding'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
+global.nomorbot = '6281364506560'
 global.nomorown = '6289522720791'
 global.namebot = 'Alvaro bot'
 global.nameown = 'Yabes'
